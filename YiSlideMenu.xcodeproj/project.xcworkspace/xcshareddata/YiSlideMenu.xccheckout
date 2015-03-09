@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>228677DE-8B9A-4B2D-95B6-864C0D44307D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>YiSlideMenu</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1F66B596-E57B-42EB-A75D-8F9FD58FF09B</key>
+		<string>svn://192.168.1.11/app/test</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>临时文件/YiSlideMenu/YiSlideMenu.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1F66B596-E57B-42EB-A75D-8F9FD58FF09B</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>1F66B596-E57B-42EB-A75D-8F9FD58FF09B</key>
+		<string>svn://192.168.1.11/app</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://192.168.1.11/app/test/%E4%B8%B4%E6%97%B6%E6%96%87%E4%BB%B6/YiSlideMenu/YiSlideMenu.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1F66B596-E57B-42EB-A75D-8F9FD58FF09B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1F66B596-E57B-42EB-A75D-8F9FD58FF09B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Movies</string>
+		</dict>
+	</array>
+</dict>
+</plist>
