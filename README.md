@@ -1,5 +1,7 @@
 # YiSlideMenu
-SlideMenu，简洁的侧边菜单，清爽风格。YiSlideView是用UIScrollView实现的侧边菜单，左菜单、右菜单以及中间视图加在UIScrollView上。
+SlideMenu，简洁的侧边菜单，清爽风格。
+
+YiSlideView是用UIScrollView实现的侧边菜单，左菜单、右菜单以及中间视图加在UIScrollView上。
 
 iOS Slide Menu with ability to add both left and right menu, and built in UIScrollView.
 
