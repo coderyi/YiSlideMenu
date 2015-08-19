@@ -23,3 +23,5 @@ iOS Slide Menu with ability to add both left and right menu, and built in UIScro
 ![YiRefresh](http://7u2k5i.com1.z0.glb.clouddn.com/github_yislidemenu1.gif?imageMogr2/thumbnail/370x662!) 
 
 ![YiRefresh](http://7u2k5i.com1.z0.glb.clouddn.com/github_yislidemenu2.gif?imageMogr2/thumbnail/370x662!) 
+
+copyright (c) 2015 coderyi.all rights reserved.
