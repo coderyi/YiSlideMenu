@@ -7,10 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		187B4B811AAD6077006D25D3 /* YiSlideMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 187B4B801AAD6077006D25D3 /* YiSlideMenu.m */; };
+		0ADACAB51BCB500D005AF71E /* YiLeftView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0ADACAB01BCB500D005AF71E /* YiLeftView.m */; settings = {ASSET_TAGS = (); }; };
+		0ADACAB61BCB500D005AF71E /* YiRightView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0ADACAB21BCB500D005AF71E /* YiRightView.m */; settings = {ASSET_TAGS = (); }; };
+		0ADACAB71BCB500D005AF71E /* YiSlideMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 0ADACAB41BCB500D005AF71E /* YiSlideMenu.m */; settings = {ASSET_TAGS = (); }; };
 		187B4B871AAD6E41006D25D3 /* NextViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 187B4B861AAD6E41006D25D3 /* NextViewController.m */; };
-		A1C0509D1AAC3B090034D1D5 /* YiLeftView.m in Sources */ = {isa = PBXBuildFile; fileRef = A1C0509C1AAC3B090034D1D5 /* YiLeftView.m */; };
-		A1C050A31AAC3B370034D1D5 /* YiRightView.m in Sources */ = {isa = PBXBuildFile; fileRef = A1C050A21AAC3B370034D1D5 /* YiRightView.m */; };
 		A1EAD9B91AAB25250055F2EC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A1EAD9B81AAB25250055F2EC /* main.m */; };
 		A1EAD9BC1AAB25250055F2EC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A1EAD9BB1AAB25250055F2EC /* AppDelegate.m */; };
 		A1EAD9BF1AAB25250055F2EC /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A1EAD9BE1AAB25250055F2EC /* ViewController.m */; };
@@ -31,14 +31,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		187B4B7F1AAD6077006D25D3 /* YiSlideMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YiSlideMenu.h; sourceTree = "<group>"; };
-		187B4B801AAD6077006D25D3 /* YiSlideMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YiSlideMenu.m; sourceTree = "<group>"; };
+		0ADACAAF1BCB500D005AF71E /* YiLeftView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YiLeftView.h; sourceTree = "<group>"; };
+		0ADACAB01BCB500D005AF71E /* YiLeftView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YiLeftView.m; sourceTree = "<group>"; };
+		0ADACAB11BCB500D005AF71E /* YiRightView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YiRightView.h; sourceTree = "<group>"; };
+		0ADACAB21BCB500D005AF71E /* YiRightView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YiRightView.m; sourceTree = "<group>"; };
+		0ADACAB31BCB500D005AF71E /* YiSlideMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YiSlideMenu.h; sourceTree = "<group>"; };
+		0ADACAB41BCB500D005AF71E /* YiSlideMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YiSlideMenu.m; sourceTree = "<group>"; };
 		187B4B851AAD6E41006D25D3 /* NextViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NextViewController.h; sourceTree = "<group>"; };
 		187B4B861AAD6E41006D25D3 /* NextViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NextViewController.m; sourceTree = "<group>"; };
-		A1C0509B1AAC3B090034D1D5 /* YiLeftView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YiLeftView.h; sourceTree = "<group>"; };
-		A1C0509C1AAC3B090034D1D5 /* YiLeftView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YiLeftView.m; sourceTree = "<group>"; };
-		A1C050A11AAC3B370034D1D5 /* YiRightView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YiRightView.h; sourceTree = "<group>"; };
-		A1C050A21AAC3B370034D1D5 /* YiRightView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YiRightView.m; sourceTree = "<group>"; };
 		A1D47EE11AABD5C200E7E29C /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 		A1EAD9B31AAB25250055F2EC /* YiSlideMenu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YiSlideMenu.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1EAD9B71AAB25250055F2EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -73,6 +73,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0ADACAAE1BCB500D005AF71E /* YiSlideMenu */ = {
+			isa = PBXGroup;
+			children = (
+				0ADACAAF1BCB500D005AF71E /* YiLeftView.h */,
+				0ADACAB01BCB500D005AF71E /* YiLeftView.m */,
+				0ADACAB11BCB500D005AF71E /* YiRightView.h */,
+				0ADACAB21BCB500D005AF71E /* YiRightView.m */,
+				0ADACAB31BCB500D005AF71E /* YiSlideMenu.h */,
+				0ADACAB41BCB500D005AF71E /* YiSlideMenu.m */,
+			);
+			path = YiSlideMenu;
+			sourceTree = "<group>";
+		};
 		A1EAD9AA1AAB25250055F2EC = {
 			isa = PBXGroup;
 			children = (
@@ -94,6 +107,7 @@
 		A1EAD9B51AAB25250055F2EC /* YiSlideMenu */ = {
 			isa = PBXGroup;
 			children = (
+				0ADACAAE1BCB500D005AF71E /* YiSlideMenu */,
 				A1EAD9BA1AAB25250055F2EC /* AppDelegate.h */,
 				A1EAD9BB1AAB25250055F2EC /* AppDelegate.m */,
 				A1D47EE11AABD5C200E7E29C /* Header.h */,
@@ -101,12 +115,6 @@
 				A1EAD9BE1AAB25250055F2EC /* ViewController.m */,
 				187B4B851AAD6E41006D25D3 /* NextViewController.h */,
 				187B4B861AAD6E41006D25D3 /* NextViewController.m */,
-				187B4B7F1AAD6077006D25D3 /* YiSlideMenu.h */,
-				187B4B801AAD6077006D25D3 /* YiSlideMenu.m */,
-				A1C0509B1AAC3B090034D1D5 /* YiLeftView.h */,
-				A1C0509C1AAC3B090034D1D5 /* YiLeftView.m */,
-				A1C050A11AAC3B370034D1D5 /* YiRightView.h */,
-				A1C050A21AAC3B370034D1D5 /* YiRightView.m */,
 				A1EAD9C01AAB25250055F2EC /* Main.storyboard */,
 				A1EAD9C31AAB25250055F2EC /* Images.xcassets */,
 				A1EAD9C51AAB25250055F2EC /* LaunchScreen.xib */,
@@ -242,12 +250,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				A1EAD9BF1AAB25250055F2EC /* ViewController.m in Sources */,
-				A1C050A31AAC3B370034D1D5 /* YiRightView.m in Sources */,
 				A1EAD9BC1AAB25250055F2EC /* AppDelegate.m in Sources */,
+				0ADACAB71BCB500D005AF71E /* YiSlideMenu.m in Sources */,
 				A1EAD9B91AAB25250055F2EC /* main.m in Sources */,
+				0ADACAB61BCB500D005AF71E /* YiRightView.m in Sources */,
 				187B4B871AAD6E41006D25D3 /* NextViewController.m in Sources */,
-				187B4B811AAD6077006D25D3 /* YiSlideMenu.m in Sources */,
-				A1C0509D1AAC3B090034D1D5 /* YiLeftView.m in Sources */,
+				0ADACAB51BCB500D005AF71E /* YiLeftView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -55,7 +55,7 @@
         leftBgView.clipsToBounds=YES;
         [self addSubview:leftBgView];
         
-        YiLeftView *leftView=[[YiLeftView alloc] initWithFrame:CGRectMake(WScreen-LeftWidth , 0, LeftWidth, viewHeight)];
+        YiLeftView *leftView=[[YiLeftView alloc] initWithFrame:CGRectMake([[UIScreen mainScreen] bounds].size.width-LeftWidth , 0, LeftWidth, viewHeight)];
         leftView.clipsToBounds=YES;
         leftView.delegate=self;
         [leftBgView addSubview:leftView];
@@ -73,7 +73,7 @@
         centerView.backgroundColor=[UIColor whiteColor];
         
         UIView *navBar=[[UIView alloc] initWithFrame:CGRectMake(0, 0, viewWidth, 64)];
-        navBar.backgroundColor=StyleColor;
+        navBar.backgroundColor=[UIColor colorWithRed:0.08 green:0.47 blue:0.84 alpha:1];
         [centerBgView addSubview:navBar];
         
         navLeftBt=[UIButton buttonWithType:UIButtonTypeCustom];
@@ -131,7 +131,7 @@
         
        
 
-    }else if (self.contentOffset.x>=(WScreen+0)){
+    }else if (self.contentOffset.x>=([[UIScreen mainScreen] bounds].size.width+0)){
              [self setContentOffset:CGPointMake(viewWidth-LeftWidth,0) animated:YES];
 
 
