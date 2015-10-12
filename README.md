@@ -1,9 +1,20 @@
 # YiSlideMenu
+[![Pod Version](http://img.shields.io/cocoapods/v/YiSlideMenu.svg?style=flat)](http://cocoadocs.org/docsets/YiSlideMenu/)
+[![Pod Platform](http://img.shields.io/cocoapods/p/YiSlideMenu.svg?style=flat)](http://cocoadocs.org/docsets/YiSlideMenu/)
+[![Pod License](http://img.shields.io/cocoapods/l/YiSlideMenu.svg?style=flat)](https://opensource.org/licenses/MIT)
+
 SlideMenu，简洁的侧边菜单，清爽风格。
 
 YiSlideView是用UIScrollView实现的侧边菜单，左菜单、右菜单以及中间视图加在UIScrollView上。
 
 iOS Slide Menu with ability to add both left and right menu, and built in UIScrollView.
+
+#### Podfile
+
+```ruby
+platform :ios, '7.0'
+pod "YiSlideMenu", "~> 0.1"
+```
 
 使用方法
 
